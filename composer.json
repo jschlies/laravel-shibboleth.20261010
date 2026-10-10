@@ -1,6 +1,6 @@
 {
   "name": "mrfabulous/laravel-shibboleth",
-  "description": "Enable basic Shibboleth support for Laravel 5.x",
+  "description": "Enable basic Shibboleth support for Laravel",
   "authors": [
     {
       "name": "Christopher Maio",
