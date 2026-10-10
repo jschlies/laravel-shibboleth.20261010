@@ -24,7 +24,7 @@
     }
   ],
   "require": {
-    "laravel/framework": "^12.55.1",
+    "laravel/framework": "*",
     "php-open-source-saver/jwt-auth": "^2.7",
     "php": "^8.4",
     "illuminate/support": "^11.34"
@@ -50,5 +50,5 @@
   },
   "require-dev": {
     "orchestra/testbench": "*"
-  },"version": "1.0.1"
+  }
 }
